@@ -1,0 +1,7 @@
+{
+    "pacientes": [
+      { "id": 1, "nome": "João Silva", "idade": 30, "pagamento": true },
+      { "id": 2, "nome": "Maria Souza", "idade": 25, "pagamento": false }
+    ]
+  }
+  
